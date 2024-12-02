@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Selenium2Project4x.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1510024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1510024/test_lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1510024/test_lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab004_task2.py" afterDir="false" />
+    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New selenium prgms">
+      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_lab004_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab004_task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733131710649</updated>
     </task>
+    <task id="LOCAL-00001" summary="New selenium prgms">
+      <option name="closed" value="true" />
+      <created>1733154377503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733154377503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New selenium prgms" />
+    <option name="LAST_COMMIT_MESSAGE" value="New selenium prgms" />
   </component>
 </project>
