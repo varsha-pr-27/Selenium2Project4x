@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment=" changes made">
-      <change beforePath="$PROJECT_DIR$/.idea/Selenium2Project4x.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium2Project4x.iml" afterDir="false" />
+    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment=" added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +39,10 @@
     "Python tests.Python tests in test_lab002.py.executor": "Run",
     "Python tests.Python tests in test_lab003.py.executor": "Run",
     "Python tests.Python tests in test_lab004_task2.py.executor": "Run",
+    "Python tests.Python tests in test_lab005.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -76,15 +77,58 @@
       <option name="project" value="LOCAL" />
       <updated>1733154760453</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" changes made">
+      <option name="closed" value="true" />
+      <created>1733155048378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733155048378</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" added">
+      <option name="closed" value="true" />
+      <created>1733241096017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733241096017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -93,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New selenium prgms" />
     <MESSAGE value=" changes made" />
-    <option name="LAST_COMMIT_MESSAGE" value=" changes made" />
+    <MESSAGE value=" added" />
+    <option name="LAST_COMMIT_MESSAGE" value=" added" />
   </component>
 </project>
