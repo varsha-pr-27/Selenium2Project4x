@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="amended" />
+    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="amended">
+      <change afterPath="$PROJECT_DIR$/Simple login page example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/2894bf89-3a2c-4c49-9890-5f9072e981c0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6ee67a40-796d-41a3-ab78-375f2e403829-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/8335d597-6239-4293-b2b0-292793df7aa3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Awesome login page example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/app.vwo.com login button id.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab008_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -25,6 +37,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/varsha-pr-27/Selenium2Project4x.git",
+    "accountId": "96693374-e71b-41dc-91aa-503c0a8399fc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -36,21 +54,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_lab001.py.executor": "Run",
-    "Python tests.Python tests in test_lab002.py.executor": "Run",
-    "Python tests.Python tests in test_lab003.py.executor": "Run",
-    "Python tests.Python tests in test_lab004_task2.py.executor": "Run",
-    "Python tests.Python tests in test_lab005.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests in test_lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab003.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab004_task2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab005.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab006.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab007.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab008.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -115,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733242886565</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="amended">
+      <option name="closed" value="true" />
+      <created>1733243099763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733243099763</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +188,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New selenium prgms" />
     <MESSAGE value=" changes made" />
     <MESSAGE value=" added" />
