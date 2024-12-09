@@ -1,4 +1,4 @@
-# To locate the element of the webpage using ID, Class, Name
+# To locate the element of the webpage using ID, Class, Name of the webpage
 
 import time
 
