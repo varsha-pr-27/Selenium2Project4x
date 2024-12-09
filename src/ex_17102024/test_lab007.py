@@ -26,3 +26,4 @@ def test_chrome_current_url_verification():
     assert driver.current_url == "https://katalon-demo-cura.herokuapp.com/profile.php#login"
     time.sleep(10)
     driver.quit()
+

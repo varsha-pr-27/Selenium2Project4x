@@ -24,3 +24,4 @@ def test_katalon_login_verification_project1():
     assert driver.current_url == "https://katalon-demo-cura.herokuapp.com/#appointment"
     time.sleep(5)
 
+
