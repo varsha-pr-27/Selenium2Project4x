@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_CURA_Healthcare_Login_page_Verification using_IDE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/=allure_result/01a2df60-8916-431a-b4d2-6e8c877fa088-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/=allure_result/5385e788-5b51-491c-a66f-faf22d03e973-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/=allure_result/8e60ee32-fea9-46eb-83f5-3cd6fd5441db-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/=allure_result/f5d0656b-1213-4c9d-bff4-a54309a604c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/7758b36f-0c7c-4249-b369-6ecc896ab57a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/fe691723-ef71-460c-826a-b8dc83a16959-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739543317599</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added">
+      <option name="closed" value="true" />
+      <created>1739544390154</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739544390154</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
