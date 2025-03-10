@@ -1,12 +1,14 @@
-# To locate the element of the webpage using ID, Class, Name of the webpage
+# Automation script to locate the webelements using ID, Name and ClassName of APP.VWO webpage
 
 import time
 
+import allure
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-def test_chrome_current_url_verification():
+@allure.description("Verify the error message when entering the login credentials")
+def test_chrome_negative_test_case_verification():
     driver = webdriver.Chrome()
     driver.get("https://app.vwo.com")  # Navigate to the url
 

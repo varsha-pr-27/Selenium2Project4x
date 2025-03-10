@@ -14,7 +14,6 @@ def test_chrome_current_url_verification():
     driver.quit()
 
 
-
 def test_edge_current_url_verification():
     driver = webdriver.Edge()
     driver.get("https://katalon-demo-cura.herokuapp.com/")
