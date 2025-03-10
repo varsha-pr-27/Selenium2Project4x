@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="added" />
+    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New changes added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,10 +314,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741631161475</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1741631507879</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741631507879</updated>
+    </task>
+    <task id="LOCAL-00017" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1741631630420</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741631630420</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2792d531-dd5c-42a0-85cb-e65d4b9db4cb" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -335,6 +356,31 @@
     </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="2792d531-dd5c-42a0-85cb-e65d4b9db4cb">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -362,6 +408,7 @@
     <MESSAGE value=" added" />
     <MESSAGE value="amended" />
     <MESSAGE value="added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added" />
+    <MESSAGE value="New changes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changes added" />
   </component>
 </project>
