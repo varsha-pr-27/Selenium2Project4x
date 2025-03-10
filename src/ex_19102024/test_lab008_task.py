@@ -25,3 +25,4 @@ def test_katalon_login_verification_project1():
 
     time.sleep(5)
     driver.quit()
+
