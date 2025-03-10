@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_dummy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/=allure_result/01a2df60-8916-431a-b4d2-6e8c877fa088-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/=allure_result/5385e788-5b51-491c-a66f-faf22d03e973-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/=allure_result/8e60ee32-fea9-46eb-83f5-3cd6fd5441db-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/=allure_result/f5d0656b-1213-4c9d-bff4-a54309a604c7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_result/2894bf89-3a2c-4c49-9890-5f9072e981c0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_result/6ee67a40-796d-41a3-ab78-375f2e403829-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_result/7758b36f-0c7c-4249-b369-6ecc896ab57a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_result/8335d597-6239-4293-b2b0-292793df7aa3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_result/fe691723-ef71-460c-826a-b8dc83a16959-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Awesome login page example.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Awesome login page example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17102024/test_lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17102024/test_lab008_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab008_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_19102024/test_lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab009.py" afterDir="false" />
-    </list>
+    <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,50 +49,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.Python tests for test_lab006.test_chrome_current_url_verification.executor": "Run",
-    "Python tests.Python tests for test_lab006.test_chrome_options.executor": "Run",
-    "Python tests.Python tests for test_lab006.test_chrome_options.test_chrome_current_url_verification.executor": "Run",
-    "Python tests.Python tests for test_lab006.test_edge_options.executor": "Run",
-    "Python tests.Python tests for test_lab006.test_firefox_options.executor": "Run",
-    "Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification.executor": "Run",
-    "Python tests.Python tests in test_dummy.py.executor": "Run",
-    "Python tests.Python tests in test_lab001.py.executor": "Run",
-    "Python tests.Python tests in test_lab002.py.executor": "Run",
-    "Python tests.Python tests in test_lab003.py.executor": "Run",
-    "Python tests.Python tests in test_lab004_task2.py.executor": "Run",
-    "Python tests.Python tests in test_lab005.py.executor": "Run",
-    "Python tests.Python tests in test_lab006.1.1.py.executor": "Run",
-    "Python tests.Python tests in test_lab006.1.py.executor": "Run",
-    "Python tests.Python tests in test_lab006.py.executor": "Run",
-    "Python tests.Python tests in test_lab006_1.py.executor": "Run",
-    "Python tests.Python tests in test_lab007.py.executor": "Run",
-    "Python tests.Python tests in test_lab008.py.executor": "Run",
-    "Python tests.Python tests in test_lab008_task.py.executor": "Run",
-    "Python tests.Python tests in test_lab009.py.executor": "Run",
-    "Python tests.Python tests in test_lab010.py.executor": "Run",
-    "Python tests.Python tests in test_lab011.py.executor": "Run",
-    "Python tests.Python tests in test_lab012.py.executor": "Run",
-    "Python tests.Python tests in test_lab013.py.executor": "Run",
-    "Python.dummy.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_19102024"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_chrome_options.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_chrome_options.test_chrome_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_edge_options.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_firefox_options.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_dummy.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab003.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab004_task2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab005.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab006.1.1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab006.1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab006.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab006_1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab007.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab008.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab008_task.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab009.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab010.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab011.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab012.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab013.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dummy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_19102024&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\Selenium2Project4x\src\ex_19102024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab006.test_chrome_options">
     <configuration name="Python tests for test_lab006.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Selenium2Project4x" />
       <option name="ENV_FILES" value="" />
@@ -326,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739953901594</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added">
+      <option name="closed" value="true" />
+      <created>1741631161475</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741631161475</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
