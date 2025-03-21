@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 
 @allure.title("Positive Testcase - App.vwo.com Signup Button Verification. ")
 @allure.description("Verify that FREE Trail button is clicked, Navigated to next page")
-def test_negative_vwo_free_trail_project3():
+def test_positive_vwo_free_trail_project3():
     driver = webdriver.Chrome()
     driver.get("https://app.vwo.com/#/login")
 
