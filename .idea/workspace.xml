@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New changes added">
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Awesome_QA_Registration_Page_Automation_task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_signup_button_verification_AppVwo_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab014_ebay_automation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_19102024/test_lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19102024/test_lab010.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,7 @@
     "Python tests.Python tests in test_lab011.py.executor": "Run",
     "Python tests.Python tests in test_lab012.py.executor": "Run",
     "Python tests.Python tests in test_lab013.py.executor": "Run",
+    "Python tests.Python tests in test_lab014_ebay_automation.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_AppVwo_task2.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_app.vwo.com_task2.py.executor": "Run",
     "Python.dummy.executor": "Run",
@@ -354,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741673935624</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1742555270983</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1742555270983</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
