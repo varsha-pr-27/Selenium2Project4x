@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New changes added">
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab014_ebay_automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab015_Explict_Wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab016_Fluent_Wait_Concept.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +83,8 @@
     "Python tests.Python tests in test_lab012.py.executor": "Run",
     "Python tests.Python tests in test_lab013.py.executor": "Run",
     "Python tests.Python tests in test_lab014_ebay_automation.py.executor": "Run",
+    "Python tests.Python tests in test_lab015_Explict_Wait.py.executor": "Run",
+    "Python tests.Python tests in test_lab016_Fluent_Wait_Concept.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_AppVwo_task2.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_app.vwo.com_task2.py.executor": "Run",
     "Python.dummy.executor": "Run",
@@ -362,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742555270983</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1742635314791</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1742635314791</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,5 +452,16 @@
     <MESSAGE value="added" />
     <MESSAGE value="New changes added" />
     <option name="LAST_COMMIT_MESSAGE" value="New changes added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_22102024/test_lab015_Explict_Wait.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
