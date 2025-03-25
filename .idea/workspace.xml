@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New changes added">
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab015_Explict_Wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab016_Fluent_Wait_Concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab017_Alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab018_Select_Box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab019_SVG_Flipkart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab020_SVG_Amcharts_India.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +65,7 @@
     "Python tests.Python tests for test_lab006.test_edge_options.executor": "Run",
     "Python tests.Python tests for test_lab006.test_firefox_options.executor": "Run",
     "Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_lab017_Alerts.test_alerts_prompt.executor": "Run",
     "Python tests.Python tests in test_Awesome_QA_Registration_Page_Automation_task1.py.executor": "Run",
     "Python tests.Python tests in test_dummy.py.executor": "Run",
     "Python tests.Python tests in test_lab001.py.executor": "Run",
@@ -85,6 +88,9 @@
     "Python tests.Python tests in test_lab014_ebay_automation.py.executor": "Run",
     "Python tests.Python tests in test_lab015_Explict_Wait.py.executor": "Run",
     "Python tests.Python tests in test_lab016_Fluent_Wait_Concept.py.executor": "Run",
+    "Python tests.Python tests in test_lab018_Select_Box.py.executor": "Run",
+    "Python tests.Python tests in test_lab019_SVG_Flipkart.py.executor": "Run",
+    "Python tests.Python tests in test_lab020_SVG_Amcharts_India.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_AppVwo_task2.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_app.vwo.com_task2.py.executor": "Run",
     "Python.dummy.executor": "Run",
@@ -133,21 +139,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab006.test_firefox_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Selenium2Project4x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab006.test_firefox_options&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Selenium2Project4x" />
       <option name="ENV_FILES" value="" />
@@ -160,6 +151,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_lab006.test_firefox_options.test_firefox_current_url_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab017_Alerts.test_alerts_prompt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2Project4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab017_Alerts.test_alerts_prompt&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -180,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab017_Alerts.test_alerts_prompt" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_options" />
         <item itemvalue="Python tests.Python tests in C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_17102024/test_lab006_1.py" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_options.test_chrome_current_url_verification" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification" />
-        <item itemvalue="Python tests.Python tests for test_lab006.test_firefox_options" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742635314791</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1742801815740</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1742801815740</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +474,11 @@
           <url>file://$PROJECT_DIR$/src/ex_22102024/test_lab015_Explict_Wait.py</url>
           <line>24</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_22102024/test_lab017_Alerts.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
