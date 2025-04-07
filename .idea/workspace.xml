@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New changes added">
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab021_Exceptions_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab022_Stale_Element_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22102024/test_lab023_Timeout_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab024_webtables_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab025_webtables_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab026_Actionchains_KeysUp_KeysDown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab027_Mouse_back_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab028_Click_And_Hold_Operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_task1_drag_and_drop_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_task2_Automation_MakeMyTrip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab017_Alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab017_Alerts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab018_Select_Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab018_Select_Box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab019_SVG_Flipkart.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab019_SVG_Flipkart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab020_SVG_Amcharts_India.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab020_SVG_Amcharts_India.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab021_Exceptions_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab021_Exceptions_Part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab022_Stale_Element_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab022_Stale_Element_Exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab023_Timeout_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab023_Timeout_Exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +106,19 @@
     "Python tests.Python tests in test_lab021_Exceptions_Part1.py.executor": "Run",
     "Python tests.Python tests in test_lab022_Stale_Element_Exception.py.executor": "Run",
     "Python tests.Python tests in test_lab023_Timeout_Exception.py.executor": "Run",
+    "Python tests.Python tests in test_lab024_Selenium_Webtables_Part1.py.executor": "Run",
+    "Python tests.Python tests in test_lab024_webtables_Part1.py.executor": "Run",
+    "Python tests.Python tests in test_lab026_Actionchains_Keyup&Keydown.py.executor": "Run",
+    "Python tests.Python tests in test_lab027_Mouse_back_operation.py.executor": "Run",
+    "Python tests.Python tests in test_lab028_Click_And_Hold_Operation.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_AppVwo_task2.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_app.vwo.com_task2.py.executor": "Run",
+    "Python tests.Python tests in test_task_drag_and_drop_operation.py.executor": "Run",
     "Python.dummy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_19102024"
+    "last_opened_file_path": "C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_24102024"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": []
@@ -107,6 +126,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\Selenium2Project4x\src\ex_24102024" />
       <recent name="C:\Users\Dell\PycharmProjects\Selenium2Project4x\src\ex_19102024" />
     </key>
   </component>
@@ -188,8 +208,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_lab017_Alerts.test_alerts_prompt" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_options" />
+        <item itemvalue="Python tests.Python tests for test_lab017_Alerts.test_alerts_prompt" />
         <item itemvalue="Python tests.Python tests in C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_17102024/test_lab006_1.py" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_options.test_chrome_current_url_verification" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification" />
@@ -396,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742917127435</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1742970614083</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1742970614083</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,21 +504,5 @@
     <MESSAGE value="added" />
     <MESSAGE value="New changes added" />
     <option name="LAST_COMMIT_MESSAGE" value="New changes added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_22102024/test_lab015_Explict_Wait.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_22102024/test_lab017_Alerts.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
