@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27682cd7-091e-4e6e-a2cd-03255d550898" name="Changes" comment="New changes added">
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab024_webtables_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab025_webtables_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab026_Actionchains_KeysUp_KeysDown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab027_Mouse_back_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab028_Click_And_Hold_Operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_task1_drag_and_drop_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_task2_Automation_MakeMyTrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab029_Window_Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_26102024/test_lab030_Iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/test_lab031_JS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/test_lab032_WindowScroll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/test_lab033_Titile_URL(JS).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/test_lab034_Shadow_DOM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29102024/test_lab035_Organize_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab017_Alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab017_Alerts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab018_Select_Box.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab018_Select_Box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab019_SVG_Flipkart.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab019_SVG_Flipkart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab020_SVG_Amcharts_India.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab020_SVG_Amcharts_India.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab021_Exceptions_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab021_Exceptions_Part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab022_Stale_Element_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab022_Stale_Element_Exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_22102024/test_lab023_Timeout_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_24102024/test_lab023_Timeout_Exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1510024/test_lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1510024/test_lab001_Verify_Current_URL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1510024/test_lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1510024/test_lab002_Verify_Title.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_26102024/test_task1_drag_and_drop_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_26102024/test_task1_Drag_and_Drop_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_26102024/test_task2_Automation_MakeMyTrip.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_26102024/test_task2_Automation_MakeMyTrip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +74,7 @@
     "Python tests.Python tests for test_lab006.test_firefox_options.executor": "Run",
     "Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification.executor": "Run",
     "Python tests.Python tests for test_lab017_Alerts.test_alerts_prompt.executor": "Run",
+    "Python tests.Python tests for test_lab034_Shadow_DOM.test_shadow_dom_js.executor": "Run",
     "Python tests.Python tests in test_Awesome_QA_Registration_Page_Automation_task1.py.executor": "Run",
     "Python tests.Python tests in test_dummy.py.executor": "Run",
     "Python tests.Python tests in test_lab001.py.executor": "Run",
@@ -111,8 +108,16 @@
     "Python tests.Python tests in test_lab026_Actionchains_Keyup&Keydown.py.executor": "Run",
     "Python tests.Python tests in test_lab027_Mouse_back_operation.py.executor": "Run",
     "Python tests.Python tests in test_lab028_Click_And_Hold_Operation.py.executor": "Run",
+    "Python tests.Python tests in test_lab029_Window_Handling.py.executor": "Run",
+    "Python tests.Python tests in test_lab030_Iframe.py.executor": "Run",
+    "Python tests.Python tests in test_lab031_JS.py.executor": "Run",
+    "Python tests.Python tests in test_lab032_WindowScroll.py.executor": "Run",
+    "Python tests.Python tests in test_lab033_Titile_URL(JS).py.executor": "Run",
+    "Python tests.Python tests in test_lab034_Shadow_DOM.py.executor": "Run",
+    "Python tests.Python tests in test_lab035_Organize_code.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_AppVwo_task2.py.executor": "Run",
     "Python tests.Python tests in test_signup_button_verification_app.vwo.com_task2.py.executor": "Run",
+    "Python tests.Python tests in test_task2_Automation_MakeMyTrip.py.executor": "Run",
     "Python tests.Python tests in test_task_drag_and_drop_operation.py.executor": "Run",
     "Python.dummy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -161,21 +166,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Selenium2Project4x" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17102024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab006.test_firefox_options.test_firefox_current_url_verification&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_lab017_Alerts.test_alerts_prompt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Selenium2Project4x" />
       <option name="ENV_FILES" value="" />
@@ -188,6 +178,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_lab017_Alerts.test_alerts_prompt&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab034_Shadow_DOM.test_shadow_dom_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium2Project4x" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_29102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab034_Shadow_DOM.test_shadow_dom_js&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -208,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab034_Shadow_DOM.test_shadow_dom_js" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_options" />
         <item itemvalue="Python tests.Python tests for test_lab017_Alerts.test_alerts_prompt" />
         <item itemvalue="Python tests.Python tests in C:/Users/Dell/PycharmProjects/Selenium2Project4x/src/ex_17102024/test_lab006_1.py" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_chrome_options.test_chrome_current_url_verification" />
-        <item itemvalue="Python tests.Python tests for test_lab006.test_firefox_options.test_firefox_current_url_verification" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742970614083</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1744025278330</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1744025278331</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

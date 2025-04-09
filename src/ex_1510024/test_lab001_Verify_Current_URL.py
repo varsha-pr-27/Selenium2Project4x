@@ -4,7 +4,7 @@ import allure
 from selenium import webdriver
 
 
-@allure.title("Verify the title of the webpage SDET Club")
+@allure.title("Verify the URL of the webpage SDET Club")
 def test_sample_login():
     driver = webdriver.Chrome()
     driver.get("https://sdet.live")
